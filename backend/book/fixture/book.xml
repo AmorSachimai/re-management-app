@@ -1,0 +1,388 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+<channel>
+<title>逃げ上手 - 国立国会図書館サーチ OpenSearch</title>
+<link>https://ndlsearch.ndl.go.jp/api/opensearch?cnt=10&title=%E9%80%83%E3%81%92%E4%B8%8A%E6%89%8B</link>
+<description>Search results for cnt=10 title=逃げ上手</description>
+<language>ja</language>
+<openSearch:totalResults>20</openSearch:totalResults>
+<openSearch:startIndex>1</openSearch:startIndex>
+<openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+<item>
+<title>逃げ上手の若君 17</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000137-I9784088841687</link>
+<description>
+<![CDATA[ <p>集英社,2024-09-04,9784088841687<p><ul><li>タイトル：逃げ上手の若君 17</li><li>タイトル（読み）：ニゲジョウズノワカギミ</li><li>責任表示：松井 優征 著・文・その他</li><li>シリーズ名：ジャンプコミックス</li></ul> ]]>
+</description>
+<author>松井 優征,松井 優征 著・文・その他</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000137-I9784088841687</guid>
+<pubDate>Fri, 19 Jul 2024 00:45:23 +0900</pubDate>
+<dc:title>逃げ上手の若君 17</dc:title>
+<dcndl:titleTranscription>ニゲジョウズノワカギミ</dcndl:titleTranscription>
+<dc:creator>松井 優征</dc:creator>
+<dcndl:creatorTranscription>マツイ ユウセイ</dcndl:creatorTranscription>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dc:publisher>集英社</dc:publisher>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2024-09-04</dc:date>
+<dcndl:price>520</dcndl:price>
+<dc:identifier xsi:type="dcndl:ISBN">9784088841687</dc:identifier>
+<dc:identifier xsi:type="dcndl:ISBN13">9784088841687</dc:identifier>
+<dc:description>発売</dc:description>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088841687"/>
+<dc:description> 2024-09-04</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I031524166</link>
+<description>
+<![CDATA[ <p>1,集英社,2021,978-4-08-882710-0<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031524166</guid>
+<pubDate>Mon, 26 Jul 2021 19:55:59 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>1</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+<dcterms:issued>2021.7</dcterms:issued>
+<dcndl:price>440円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-882710-0</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">031524166</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23556736</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07470880</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031524166"/>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/licsjd-opac/"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000015088700"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088827100"/>
+<dc:description> 2021</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I032736901</link>
+<description>
+<![CDATA[ <p>10,集英社,2023,978-4-08-883438-2<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032736901</guid>
+<pubDate>Mon, 1 May 2023 18:58:11 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>10</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+<dcterms:issued>2023.4</dcterms:issued>
+<dcndl:price>480円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-883438-2</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">032736901</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23826540</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07503416</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001669972"/>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032736901"/>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/licsjd-opac/"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000027594900"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088834382"/>
+<dc:description> 2023</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I032839312</link>
+<description>
+<![CDATA[ <p>11,集英社,2023,978-4-08-883561-7<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032839312</guid>
+<pubDate>Thu, 15 Jun 2023 00:18:16 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>11</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+<dcterms:issued>2023.6</dcterms:issued>
+<dcndl:price>480円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-883561-7</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">032839312</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23845259</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07507105</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001681498"/>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032839312"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000028684600"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088835617"/>
+<dc:description> 2023</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I033015290</link>
+<description>
+<![CDATA[ <p>12,集英社,2023,978-4-08-883635-5<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033015290</guid>
+<pubDate>Tue, 26 Sep 2023 20:30:36 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>12</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+<dcterms:issued>2023.9</dcterms:issued>
+<dcndl:price>480円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-883635-5</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">033015290</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23886265</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07512683</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001702443"/>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033015290"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000030924300"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088836355"/>
+<dc:description> 2023</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I033134132</link>
+<description>
+<![CDATA[ <p>13,集英社,2023,978-4-08-883693-5<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033134132</guid>
+<pubDate>Tue, 21 Nov 2023 18:59:22 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>13</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+<dcterms:issued>2023.11</dcterms:issued>
+<dcndl:price>480円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-883693-5</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">033134132</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23910088</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07516024</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001714920"/>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033134132"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000032349700"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088836935"/>
+<dc:description> 2023</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I033289224</link>
+<description>
+<![CDATA[ <p>14,集英社,2024,978-4-08-883823-6<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033289224</guid>
+<pubDate>Tue, 27 Feb 2024 18:48:21 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>14</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+<dcterms:issued>2024.2</dcterms:issued>
+<dcndl:price>480円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-883823-6</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">033289224</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23946325</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07520807</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001734145"/>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033289224"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000034727400"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088838236"/>
+<dc:description> 2024</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I033403177</link>
+<description>
+<![CDATA[ <p>15,集英社,2024,978-4-08-883883-0<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033403177</guid>
+<pubDate>Sat, 11 May 2024 02:34:13 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>15</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+<dcterms:issued>2024.4</dcterms:issued>
+<dcndl:price>480円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-883883-0</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">033403177</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23974469</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07523973</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033403177"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000040007300"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088838830"/>
+<dc:description> 2024</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I033565349</link>
+<description>
+<![CDATA[ <p>16,集英社,2024,978-4-08-884111-3<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033565349</guid>
+<pubDate>Thu, 18 Jul 2024 19:19:28 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>16</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+<dcterms:issued>2024.7</dcterms:issued>
+<dcndl:price>520円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-884111-3</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">033565349</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">24001335</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07529190</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033565349"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000048679900"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088841113"/>
+<dc:description> 2024</dc:description>
+</item>
+<item>
+<title>逃げ上手の若君</title>
+<link>https://ndlsearch.ndl.go.jp/books/R100000002-I031582589</link>
+<description>
+<![CDATA[ <p>2,集英社,2021,978-4-08-882734-6<p><ul><li>タイトル：逃げ上手の若君</li><li>タイトル（読み）：ニゲジョウズ ノ ワカギミ</li><li>責任表示：松井優征 著</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul> ]]>
+</description>
+<author>松井, 優征, 1979-,松井優征 著</author>
+<category>図書</category>
+<category>紙</category>
+<guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031582589</guid>
+<pubDate>Thu, 26 Aug 2021 19:17:46 +0900</pubDate>
+<dc:title>逃げ上手の若君</dc:title>
+<dcndl:titleTranscription>ニゲジョウズ ノ ワカギミ</dcndl:titleTranscription>
+<dc:creator>松井, 優征, 1979-</dc:creator>
+<dcndl:creatorTranscription>マツイ, ユウセイ, 1979-</dcndl:creatorTranscription>
+<dcndl:volume>2</dcndl:volume>
+<dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+<dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+<dc:publisher>集英社</dc:publisher>
+<dcndl:publicationPlace>JP</dcndl:publicationPlace>
+<dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+<dcterms:issued>2021.8</dcterms:issued>
+<dcndl:price>440円</dcndl:price>
+<dc:extent>1冊(ページ付なし)</dc:extent>
+<dc:identifier xsi:type="dcndl:ISBN">978-4-08-882734-6</dc:identifier>
+<dc:identifier xsi:type="dcndl:NDLBibID">031582589</dc:identifier>
+<dc:identifier xsi:type="dcndl:JPNO">23570958</dc:identifier>
+<dc:identifier xsi:type="dcndl:TOHANMARCNO">07472243</dc:identifier>
+<dcndl:genre>漫画</dcndl:genre>
+<dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+<dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+<dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+<dc:description>出版</dc:description>
+<rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031582589"/>
+<rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/licsjd-opac/"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000015669500"/>
+<rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088827346"/>
+<dc:description> 2021</dc:description>
+</item>
+</channel>
+</rss>

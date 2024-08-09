@@ -1,0 +1,9 @@
+# python3
+.venv
+
+# django
+*.sqlite3
+*.log
+*.pyc
+__pycache__
+db-volumes

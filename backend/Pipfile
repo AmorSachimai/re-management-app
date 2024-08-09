@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+dev = "python manage.py runserver"
+test = "python -m unittest discover -v"
+lint = "flake8 ."
+format = "autopep8 -ivr ."
+
+[packages]
+django = "*"
+python-dotenv = "*"
+djangorestframework = "*"
+django-filter = "*"
+
+[dev-packages]
+autopep8 = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.4"
